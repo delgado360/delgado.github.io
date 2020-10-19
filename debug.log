@@ -1,0 +1,5 @@
+[1011/060138.401:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
+[1011/105556.822:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
+[1011/122450.824:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
+[1011/163222.394:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
+[1017/143145.861:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)

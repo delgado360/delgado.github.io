@@ -1,0 +1,195 @@
+body {
+    font-family: "georgia", "Times New Roman", serif;
+    background-color: #00ffff;
+    font-size: 120%;
+    line-height: 1, 2;
+}
+
+.titulo-principal {
+    text-align: center;
+    background-color: gray;
+    color: #FFF;
+    padding: 25px;
+    font-size: 60px;
+    border-bottom: 10px solid black;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-family: "georgia",
+        "bodoni",
+        serif;
+    font-size: 20px;
+    clear: both;
+}
+
+
+.m {
+    width: 600px;
+    margin: auto;
+    padding: 30px 0;
+
+}
+
+
+.m p {
+    text-align: justify;
+    margin: 20px 0;
+}
+
+blockquote {
+    background-color: #D9E5E3;
+    border: 10px solid #C2CCCA;
+    width: 400px;
+    box-sizing: border-box;
+    margin: 30px 40px;
+
+}
+
+.citacao-bio {
+    float: righht;
+}
+
+blockquote,
+footer {
+    padding: 20px;
+}
+
+ul li {
+    color: black;
+
+}
+
+ul li a {
+    color: inherit;
+}
+
+strong {
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
+}
+
+.icones-redes-sociais a {
+    width: 40px;
+    height: 40px;
+    display: inline;
+    text-indent: -999999px;
+    color: black;
+}
+
+
+
+nav a {
+    text-transform: lowercase;
+}
+
+cite {
+    font-style: italic;
+    float: right;
+}
+
+.navegacao-site {
+    margin-bottom: 100px;
+    height: 300px;
+    width: 400px;
+    top: 150px;
+    border: border-box;
+    background-position: right bottom;
+    display: inline;
+
+}
+
+.icones-redes-sociais a {
+    /* fomacao de classe ajudando a fomacao de blocos */
+    display: inline;
+    width: 40px;
+    height: 40px;
+    text-indent: -9999xp;
+}
+
+.minha-foto {
+    margin: 0;
+    right: 0;
+    top: 0;
+    position: fixed;
+    width: 20%;
+}
+
+.rodape-pagina {
+    background-color: #000;
+    color: #F2FFFC;
+    clear: both;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+.img.rod {
+    display: inline;
+}
+
+.titulo-principall {
+    text-align: center;
+    background-color: #c0c0c0;
+    color: #FFF;
+    padding: 25px;
+    font-size: 50px;
+    border-bottom: 10px solid black;
+    text-transform: uppercase;
+}
+
+.dados-pessoais h2,
+.informação-contato h2,
+.formacao-acadêmica h2,
+.experiência-profissional h2 {
+    background-color: darksalmon;
+    padding: 5px;
+    color: black;
+    text-align: center;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+}
+
+.col {
+
+    width: 100%;
+    height: 100%;
+}
+
+.Videos-instrutivos h2 {
+    text-align: center;
+}
+
+.Videos-instrutivos {
+    text-align: left;
+    background-color: #FFF;
+    margin-top: 20px;
+}
+
+.Videos-instrutivos ol li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.Links-Livros h2 {
+    color: black;
+    display: inline-block;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.Links-Livros {
+    text-align: left;
+    background-color: #FFF;
+}
